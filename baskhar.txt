@@ -1,3 +1,8 @@
 this file is used to learn branch merging
 
+<<<<<<< HEAD
 change3: done in master branch
+=======
+
+this is updated from branch bugfix
+>>>>>>> bugfix
