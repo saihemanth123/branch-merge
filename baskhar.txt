@@ -1,1 +1,3 @@
 this file is used to learn branch merging
+
+change3: done in master branch
